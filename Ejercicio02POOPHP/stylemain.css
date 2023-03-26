@@ -1,0 +1,29 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+
+
+footer{
+    max-height: 100px;
+    display: flex;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr ) ;
+    background-color: black;
+    color: rgb(99, 7, 7);
+    margin-top: 20px;
+    border: solid  #1d458fde;
+    margin-top: auto;
+    position: relative;
+    
+}
+/* .end{
+    background-color: rgba(4,0,0,0.9);
+    margin-top: 41%;
+    width: 100%;
+    padding: 20px 0px;
+    position: absolute;
+    display: flex;
+} */

@@ -1,0 +1,18 @@
+*{
+    margin: 10px;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    background: rgba(42, 155, 155, 0.658);
+}
+
+
+
+table tbody tr:nth-child(odd){
+    background: #275891a6;
+}
+
+table tbody tr:nth-child(even){
+    background: #0a39819a;
+}
+

@@ -8,3 +8,4 @@ if(!isset($_SESSION["crudMilitar"])){
     $_SESSION["crudMilitar"] = array();
     // echo "ingresa aqui";
 }
+

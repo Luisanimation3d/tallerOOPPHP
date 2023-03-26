@@ -19,7 +19,7 @@ unset($datos[$key]);
 
 $_SESSION['crudMilitar'] = $datos;
 
-header('location: index.php?id');
+header('location: indexTV.php?id');
 
 exit();
 
