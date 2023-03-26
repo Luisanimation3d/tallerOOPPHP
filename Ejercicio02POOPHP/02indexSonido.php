@@ -88,7 +88,7 @@
                 <input type="text" name="peso" value="<?php echo $sonido->getPeso(); ?>" readonly  class="form-control" aria-label="Sizing example input">
 
             <label for="cantidad">Cantidad a Comprar:</label>
-                <input type="number" name="cantidad" readonly  class="form-control" required aria-label="Sizing example input" ><br>
+                <input type="number" name="cantidad"  class="form-control" required aria-label="Sizing example input" ><br>
 
             <button type="submit" name="confirmar" class="btn btn-info">Confirmar</button>
         </form>
