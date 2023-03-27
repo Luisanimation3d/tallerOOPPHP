@@ -2,7 +2,7 @@
 
     session_destroy();
 
-    header('location: indexTV.php');
+    header('location: index.php');
 
     exit();
 
