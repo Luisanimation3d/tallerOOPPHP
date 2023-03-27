@@ -32,6 +32,6 @@ print_r($_SESSION['crudMilitar']);
 
 
 // session_destroy();
-header('location: indexTV.php?');
+header('location: index.php');
 
 exit();
